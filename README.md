@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/kitter)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/kitter?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/kitter?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/xOCeFuhDocA?style=social)](https://youtu.be/xOCeFuhDocA)
 
   <br />
   <br />
 
-  <h2 align="center">Desinic - Agency website</h2>
+  <h2 align="center">Kitter - Petshop eCommerce Website</h2>
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Kitter is a fully responsive petshop ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/kitter/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Kitter Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Desinic** locally, run this command on your git bash:
+To run **Kitter** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
+sudo git clone https://github.com/codewithsadee/kitter.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/desinic.git
+git clone https://github.com/codewithsadee/kitter.git
 ```
 
 ### Contact
